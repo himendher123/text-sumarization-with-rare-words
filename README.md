@@ -24,4 +24,9 @@ Score of BART model:
 
 ![Score](https://github.com/apoorvwankar/Text-Summarization-With-Rare-Words/blob/main/Score.png)
 
+## References
+
+Rare words in text summarization 
+https://www.sciencedirect.com/science/article/pii/S2949719123000110
+
 
