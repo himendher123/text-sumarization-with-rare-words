@@ -20,6 +20,6 @@ The articles and highlights features are used as a 'source_text' and 'target_sum
 The ROGUE scores are used to calculate the performance of the model.
 
 Score of BART model:
-![Score]([https://drive.google.com/file/d/1ziagObivHjQD6rpnIQEqNw9G0nSOHOrX/view?usp=sharing](https://drive.google.com/file/d/1ziagObivHjQD6rpnIQEqNw9G0nSOHOrX/view?usp=sharing)https://drive.google.com/file/d/1ziagObivHjQD6rpnIQEqNw9G0nSOHOrX/view?usp=sharing)
+![Score](https://github.com/apoorvwankar/Text-Summarization-With-Rare-Words/blob/main/Score.png)
 
 
