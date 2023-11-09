@@ -1,7 +1,7 @@
 
 # Text Summarization With Rare Words
 
-In an era of explosive internet content, automatic text summarization has emerged as a vital solution. There is a challenge for taking care of rare and infrequently used words in text summarization. We delve into the intricate dynamics of extractive, abstractive, and hybrid approaches, harnessing transformer models and attention mechanisms to reshape text summarization. The results were compared using the well-known ROUGE metric.
+In an era of explosive internet content, automatic text summarization has emerged as a vital solution. There is a challenge for taking care of rare and infrequently used words in text summarization. There are various aspects of extractive, abstractive, and hybrid approaches, harnessing transformer models and attention mechanisms to reshape text summarization. The results were compared using the well-known ROUGE metric.
 
 
 ## Dataset
