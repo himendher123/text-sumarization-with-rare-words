@@ -22,7 +22,9 @@ The ROGUE scores are used to calculate the performance of the model.
 Score of BART model:
 
 
-![Score](https://github.com/apoorvwankar/Text-Summarization-With-Rare-Words/blob/main/Score.png)
+ROUGE-1 Score: 0.24218934480398008
+ROUGE-2 Score: 0.19478248355097652
+ROUGE-L Score: 0.15766847984180746
 
 ## References
 
